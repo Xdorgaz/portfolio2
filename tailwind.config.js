@@ -4,7 +4,13 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{ 
+      oswald: ["Oswald", "Sans-serif"],
+      chines: ["Noto Sans Japanese", "Sans-serif"],
+      gordo: ["Alfa Slab One", "Sans-serif"]
+      }
+    },
   },
   plugins: [],
 }
