@@ -1,8 +1,8 @@
-import Project from ./Project
+import App from "./App"
+import Project from "./Project"
 function Portfolio () {
     return(
-        <h1>gegsd</h1>
-        
+        <></>
 
     )
 }

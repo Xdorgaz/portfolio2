@@ -1,6 +1,6 @@
 import Imagem from "../assets/download.webp"
 
-function Portfolio ({title, description, link}){
+function Project ({title, description, link}){
     return(
         <section className="pl-24 text-white">
             <h1>[title]</h1>
